@@ -1,0 +1,16 @@
+Jornada de Dados
+
+- python -m venv .venv - Cria uma máquina virtual
+- .venv\Scripts\Activate - Ativa a máquina virtual .venv
+
+Streamlit - streamlit.io - Biblioteca de Front End para Python
+- pip install streamlit
+
+Pydantic - Biblioteca de validação de dados
+Pandera - Fork do Pydantic para validação de Dataframes
+
+Render - servidor BD 24/7 gratuito
+PgAdmin - cliente
+
+
+V1N1C1U5 C03L80 B3M71C4

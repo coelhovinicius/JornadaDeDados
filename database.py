@@ -1,9 +1,9 @@
+import streamlit as st
+import os
 import psycopg2
 from psycopg2 import sql
-from contrato import Vendas
-import streamlit as st
 from dotenv import load_dotenv
-import os
+from contrato import Vendas
 
 # Carregar variáveis do arquivo .env
 load_dotenv()

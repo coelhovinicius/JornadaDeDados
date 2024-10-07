@@ -12,5 +12,6 @@ Pandera - Fork do Pydantic para validação de Dataframes
 Render - servidor BD 24/7 gratuito
 PgAdmin - cliente
 
+SQLALCHEMY - 
 
 V1N1C1U5 C03L80 B3M71C4
